@@ -2,14 +2,12 @@ Package: kitchen.sink
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.2.0
-Authors@R: c(
-    person(
-      "Rebecca", "Anderson",
-      email = "",
-      Comment = c(ORCID = "0009-0002-6127-3769"),
-      role = c("aut", "cre")
-    )
-  )
+Authors@R: 
+    person(given = "Rebecca",
+           family = "Anderson",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0002-6127-3769"))
+
 Description: Helper functions for surveillance data wrangling.
     
 License: What license is it under?
