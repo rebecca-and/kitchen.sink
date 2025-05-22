@@ -6,6 +6,7 @@ Authors@R:
     person(given = "Rebecca",
            family = "Anderson",
            role = c("aut", "cre"),
+           email = "rebecca.anderson21@imperial.ac.uk",
            comment = c(ORCID = "0009-0002-6127-3769"))
 
 Description: Helper functions for surveillance data wrangling.
