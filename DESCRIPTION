@@ -6,7 +6,7 @@ Authors@R: c(
     person(
       "Rebecca", "Anderson",
       email = "",
-      ORCID = "0009-0002-6127-3769",
+      Comment = c(ORCID = "0009-0002-6127-3769"),
       role = c("aut", "cre")
     )
   )
